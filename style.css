@@ -1,0 +1,15 @@
+div.stick {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: cyan;
+  padding: 20px;
+  font-size: 20px;
+  max-width: 100px;
+}
+
+div.ex1 {
+  background-color: lightblue;
+  width: 110px;
+  height: 110px;
+  overflow: scroll;
